@@ -1,15 +1,18 @@
+
 # Hi, I'm Harsha 👋
 
 <p align="center">
-  <img src="assets/harsha-embedded-systems-live.gif"
-       alt="Harsha Thotapalli - Embedded Systems Engineer"
-       width="100%"/>
+  <img
+    src="assets/harsha-embedded-systems-live.gif.gif"
+    alt="Harsha Thotapalli - Embedded Systems Engineer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-00D9FF?style=for-the-badge&logo=microchip&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ROBOTICS-7B61FF?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-00C896?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-00D9FF?style=for-the-badge&logoColor=black" alt="Embedded Systems"/>
+  <img src="https://img.shields.io/badge/ROBOTICS-7B61FF?style=for-the-badge&logoColor=white" alt="Robotics"/>
+  <img src="https://img.shields.io/badge/IoT-00C896?style=for-the-badge&logoColor=white" alt="IoT"/>
 </p>
 
 <p align="center">
@@ -21,6 +24,8 @@
   </a>
 </p>
 
+---
+
 ## ⚡ About Me
 
 Aspiring Embedded Systems Engineer passionate about developing intelligent hardware and software solutions.
@@ -31,6 +36,8 @@ Aspiring Embedded Systems Engineer passionate about developing intelligent hardw
 - 🧠 Edge AI & Computer Vision
 - 🚀 Learning by building real-world hardware projects
 
+---
+
 ## 🛰️ Featured Projects
 
 | Project | Description | Technologies |
@@ -40,20 +47,25 @@ Aspiring Embedded Systems Engineer passionate about developing intelligent hardw
 | [Fire Detection Robot](https://github.com/harshathotapalli08-wq/fire-detection-obstacle-avoidance-robot) | Autonomous fire detection, obstacle avoidance and GPS/GSM alerts | ESP32, Sensors, SIM900A, NEO-6M |
 | [Accident Alert System](https://github.com/harshathotapalli08-wq/accident-detection-alert-system) | Detects crashes and sends GPS location alerts through SMS | Arduino, ADXL345, GPS, GSM |
 
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-00D9FF?style=for-the-badge&logo=espressif&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-00D9FF?style=for-the-badge&logo=espressif&logoColor=black" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+---
 
 <p align="center">
   <i>⚡ Building intelligent systems. One circuit at a time.</i>
 </p>
+```
