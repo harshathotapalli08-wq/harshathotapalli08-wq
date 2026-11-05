@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="assets/harsha-embedded-systems-live.gif.gif"
+    src="assets/harsha-embedded-systems-live.gif"
     alt="Harsha Thotapalli - Embedded Systems Engineer"
     width="100%"
   />
