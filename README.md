@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>EMBEDDED SYSTEMS ENGINEER | FIRMWARE DEVELOPER | ROBOTICS ENTHUSIAST</b>
+  <b>EMBEDDED SYSTEMS ENGINEER | ROBOTICS ENTHUSIAST</b>
 </p>
 
 <p align="center">
