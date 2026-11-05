@@ -1,7 +1,7 @@
 # Hi, I'm Harsha 👋
 
 <p align="center">
-  <img src="./harsha-embedded-banner.gif" width="100%" alt="Harsha Thotapalli - Embedded Systems Engineer"/>
+  <img src="./final-banner.gif" width="100%" alt="Harsha Thotapalli - Embedded Systems Engineer"/>
 </p>
 
 <p align="center">
