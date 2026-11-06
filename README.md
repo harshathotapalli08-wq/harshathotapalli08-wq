@@ -18,7 +18,7 @@
 
 I'm an aspiring **Embedded Systems Engineer** passionate about connecting hardware and software to build intelligent real-world solutions.
 
-- 🔧 Embedded Firmware & Microcontroller Development
+- 🔧 Embedded software & Microcontroller Development
 - 🤖 Robotics and Autonomous Systems
 - ⚙️ Real-Time Embedded Applications
 - 🧠 Edge AI & Computer Vision
