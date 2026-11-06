@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building intelligent hardware, developing embedded firmware and bringing autonomous systems to life.
+  Building intelligent hardware, developing embedded software, and bringing autonomous systems to life.
 </p>
 
 ---
